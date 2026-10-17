@@ -1,5 +1,7 @@
 # Anakin
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 [![DOI](https://zenodo.org/badge/143483510.svg)](https://zenodo.org/badge/latestdoi/143483510)
 
 **Anakin** (Aerospace eNgineer's Assistant for Kinematics, Inertia and dyNamics)
@@ -57,7 +59,7 @@ see the live scripts in the `/docs` directory.
 
 ### Testing
 
-Unit tests are found in the `/test` subdirectory. After adding the Anakin package
+Unit tests are found in the `/tests` subdirectory. After adding the Anakin package
 to your Matlab path, you can run all tests by executing `runtests` from this
 subdirectory.
 
